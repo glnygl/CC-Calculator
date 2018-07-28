@@ -1,4 +1,7 @@
 # CC-Calculator
 Xcode 9 Swift 4 Calculator
 
-![image](https://i.hizliresim.com/0zEd7B.png)
+Simple mathematical calculations with "+,-,*,/"
+Easy handling with 100 and 1000 
+
+
